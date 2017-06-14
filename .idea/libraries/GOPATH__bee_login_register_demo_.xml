@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;bee_login_register_demo&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Mcenter" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Mcenter" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
