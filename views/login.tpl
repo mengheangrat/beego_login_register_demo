@@ -16,15 +16,20 @@
 <div  class="center-container">
 
     <div id="login">
-        <h1>Regist</h1>
-        <form method="post" action="/regist">
+        <h1 onclick="hide_log(this)" >Ops</h1>
+        <form method="post" action="/login">
             <input type="text"   required="required" placeholder="username" name="username"></input>
-            <input type="password" required="required" placeholder="password" name="pwd"></input>
-            <button class="but"  type="submit">注册</button>
+            <input type="password" required="required" placeholder="password" name="password"></input>
+            <button class="but"  type="submit">登录</button>
         </form>
     </div>
 </div>
 <script src="/static/js/jquery.min.js"></script>
 <script src="/static/js/jquery.vide/jquery.vide.js"></script>
+<script>
+    function hide_log(obj) {
+        $(obj).parent().hide();;
+    }
+</script>
 </body>
 </html>
