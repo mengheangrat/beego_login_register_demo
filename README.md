@@ -4,7 +4,7 @@
 
 ![image](https://github.com/renxiaotian/beego_login_register_demo/blob/master/gif/show.gif)
 
-1、下载或者clone至gopath的src下.
-2、修改conf下app.conf中数据库链接.
-3、使用orm.RunCommand()创建数据库表([参考](https://beego.me/docs/mvc/model/cmd.md)).
-4、编译运行.
+1、下载或者clone至gopath的src下.<br>
+2、修改conf下app.conf中数据库链接.<br>
+3、使用orm.RunCommand()创建数据库表([参考](https://beego.me/docs/mvc/model/cmd.md)).<br>
+4、编译运行.<br>
