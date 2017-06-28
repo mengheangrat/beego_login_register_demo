@@ -1,8 +1,6 @@
 说明：
 这是一个beego的demo，包含的功能有注册登录.使用mysql数据库.
 [plain]
-![img](https://github.com/renxiaotian/beego_login_register_demo/blob/master/show.gif)
-![image](https://github.com/renxiaotian/beego_login_register_demo/blob/master/gif/show.gif)
 ![image](https://github.com/renxiaotian/beego_login_register_demo/blob/master/gif/show.gif)
 
 1、下载或者clone至gopath的src下.
