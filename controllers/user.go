@@ -3,7 +3,7 @@ package controllers
 import (
 	"github.com/astaxie/beego"
 	"fmt"
-	"bee_login_register_demo/models"
+	"opscenter/models"
 )
 
 type LoginController struct {
@@ -16,7 +16,6 @@ func (index *LoginController) Get() {
 
 
 func (index *LoginController) Post() {
-
 	var user models.Users
 	inputs := index.Input()
 	user.Username = inputs.Get("username")

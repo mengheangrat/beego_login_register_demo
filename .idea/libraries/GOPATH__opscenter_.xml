@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;opscenter&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../aa" />
+      <root url="file://$PROJECT_DIR$/../Mcenter" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../admin-master" />
+      <root url="file://$PROJECT_DIR$/../test" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../aa" />
+      <root url="file://$PROJECT_DIR$/../Mcenter" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../admin-master" />
+      <root url="file://$PROJECT_DIR$/../test" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

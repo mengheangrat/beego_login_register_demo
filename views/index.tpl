@@ -66,7 +66,7 @@
   <div class="sidebar">
     <ul class="nav">
       <li><a href="/home/">主页面</a></li>
-      <li><a href="/cdn/uploadfile/">CDN资源管理</a></li>
+      <li><a href="/show/loading/">showloading</a></li>
       <li class="has-sub">
         <a href="javascript:void(0);"><span>svn管理</span><i class="fa fa-caret-right fa-fw pull-right"></i></a>
         <ul class="sub-menu">

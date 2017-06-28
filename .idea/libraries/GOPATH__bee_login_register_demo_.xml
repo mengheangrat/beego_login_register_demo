@@ -2,11 +2,15 @@
   <library name="GOPATH &lt;bee_login_register_demo&gt;">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../Mcenter" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
       <root url="file://$PROJECT_DIR$/../github.com" />
       <root url="file://$PROJECT_DIR$/../admin-master" />
     </CLASSES>
     <SOURCES>
       <root url="file://$PROJECT_DIR$/../Mcenter" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
       <root url="file://$PROJECT_DIR$/../github.com" />
       <root url="file://$PROJECT_DIR$/../admin-master" />
     </SOURCES>

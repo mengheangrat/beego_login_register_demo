@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"bee_login_register_demo/controllers"
+	"opscenter/controllers"
 	"github.com/astaxie/beego"
 )
 
@@ -11,4 +11,5 @@ func init() {
 	beego.Router("/login",&controllers.LoginController{})
 	beego.Router("/logout",&controllers.LogoutUserController{})
 	beego.Router("/home",&controllers.HomeController{})
+	beego.Router("/show/loading",&controllers.ShowloadingController{})
 }

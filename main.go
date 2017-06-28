@@ -1,12 +1,13 @@
 package main
 
 import (
-	_ "bee_login_register_demo/routers"
+	_ "opscenter/routers"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/astaxie/beego/orm"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/context"
 	"fmt"
+	//"github.com/astaxie/beego/logs"
 )
 
 func init() {

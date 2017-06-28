@@ -1,0 +1,25 @@
+{{template "header.html" .}}
+<h1>hello world!</h1>
+<div id="show"></div>
+<input type="button"   class="btn btn-success"  value="showloading"  onclick="showloading('/show/loading',{'data':'showloading'})"/>
+<script>
+    function showloading(url,data){
+        $("body").height($(window).height())
+        $("body").width($(window).width())
+        $("body").showLoading();
+        $.ajax({
+            type: 'POST',
+            url:url,
+            data:data,
+            dataType:"json",
+            error:function(obj){
+                setTimeout(function() {
+                    $("body").hideLoading()
+                }
+                ,3000);
+                //alert(obj.message);
+        }
+        });
+    }
+</script>
+{{template "footer.html" .}}
