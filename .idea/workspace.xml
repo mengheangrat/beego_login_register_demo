@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbdecd01-2d39-4c29-94dc-c1244301db57" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opscenter.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/baeddb5e-4d53-4c99-8f46-0bfa1fab2246.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__opscenter_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/showloading.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/showLoading.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.showLoading.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/showloading.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__bee_login_register_demo_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__bee_login_register_demo_.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/app.conf" afterPath="$PROJECT_DIR$/conf/app.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/user.go" afterPath="$PROJECT_DIR$/controllers/user.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.go" afterPath="$PROJECT_DIR$/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routers/router.go" afterPath="$PROJECT_DIR$/routers/router.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/header.html" afterPath="$PROJECT_DIR$/views/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.tpl" afterPath="$PROJECT_DIR$/views/index.tpl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/bee_login_register_demo.iml" afterPath="$PROJECT_DIR$/.idea/opscenter.iml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
