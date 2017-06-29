@@ -2,7 +2,6 @@
   <library name="GOPATH &lt;opscenter&gt;">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../aa" />
-      <root url="file://$PROJECT_DIR$/../Mcenter" />
       <root url="file://$PROJECT_DIR$/../hello" />
       <root url="file://$PROJECT_DIR$/../golang.org" />
       <root url="file://$PROJECT_DIR$/../github.com" />
@@ -11,7 +10,6 @@
     </CLASSES>
     <SOURCES>
       <root url="file://$PROJECT_DIR$/../aa" />
-      <root url="file://$PROJECT_DIR$/../Mcenter" />
       <root url="file://$PROJECT_DIR$/../hello" />
       <root url="file://$PROJECT_DIR$/../golang.org" />
       <root url="file://$PROJECT_DIR$/../github.com" />
